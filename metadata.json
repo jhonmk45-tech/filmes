@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Netflix Clone",
+  "description": "A responsive web application that clones the Netflix user interface, featuring horizontally scrolling carousels for movies and TV shows, built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
